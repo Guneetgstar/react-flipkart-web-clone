@@ -1,0 +1,1 @@
+export const CARD_LENGTH = 'CARD_LENGTH';

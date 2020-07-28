@@ -3,10 +3,16 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+// import Navebar from './Navebar';
+// import Carousel from './Carousel';
+// import MultiCarousel from './MultiCarousel';
+import { BrowserRouter, Route, Link } from "react-router-dom";
 
-ReactDOM.render(
+ReactDOM.hydrate(
   <React.StrictMode>
-    <App />
+    {/* <BrowserRouter> */}
+      <App />
+    {/* </BrowserRouter> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

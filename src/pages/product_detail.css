@@ -1,0 +1,135 @@
+.main_img{
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+    display: block;
+    height: 420px;
+}
+
+.pro_imgs{
+    padding: 1px;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 60px;
+    /* border: 1px solid blue; */
+    text-align: center;
+}
+
+.pro_div{
+ padding: 5px;
+ border: 0.5px solid #ccc;
+}
+
+
+
+._2MWPVK {
+    padding: 18px 8px;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    width: 98%;
+    border: none;
+    float: left;
+    background: #ff9f00;
+    color: #fff;
+}
+
+._3MWPVK {
+    padding: 18px 8px;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    width: 98%;
+    border: none;
+    float: left;
+    background: #fb641b;
+    color: #fff;
+}
+
+.prod_title{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.hGSR34 {
+    line-height: normal;
+    display: inline-block;
+    color: #fff;
+    padding: 2px 4px 2px 6px;
+    border-radius: 3px;
+    font-weight: 500;
+    font-size: 12px;
+    vertical-align: middle;
+    background-color: #388e3c;
+}
+
+.rating_count {
+    padding: 0px;
+    margin: 0px;
+    padding-left: 10px;
+    color: #afafaf;
+}
+
+.price{
+    display: inline-block;
+    /* font-size: 18px; */
+    font-weight: 500;
+    color: #212121;
+}
+
+.ul li{
+    font-size: 15px;
+}
+
+ul{
+    line-height: 35px;
+}
+
+.discrp{
+    padding: 10px 10px 10px 0;
+    color: #a5a5a5;
+}
+
+
+/* ===================================================================== */
+
+.progress {
+    height: 5px;
+    margin-bottom: 0px;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    max-width: 300px;
+}
+
+.progress-bar {
+    float: left;
+    width: 0%;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #007947;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    -webkit-transition: width .6s ease;
+    -o-transition: width .6s ease;
+    transition: width .6s ease;
+}
+
+.progress_td{
+    width: 304px;
+    padding: 0 10px;
+}
+
+.rating_div{
+    border: 0.5px solid #ccc;
+    padding: 0 20px 30px;
+
+}

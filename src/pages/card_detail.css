@@ -1,0 +1,115 @@
+._1Nyybr {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.main_div{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 2px 0px;
+    /* margin: 5px; */
+}
+
+._3vIvU_ {
+    padding: 0 24px 12px;
+    vertical-align: top;
+    min-height: 112px;
+    -webkit-flex: 1 1;
+    -ms-flex: 1 1;
+    flex: 1 1;
+    overflow: hidden;
+    max-width: 460px;
+}
+
+.main_card{
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+._2AkmmA{
+    background: #fb641b;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.2);
+    border: none;
+    color: #fff;
+    padding: 10px 40px;
+    font-size: 15px;
+}
+
+._1RLi8m {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px -2px 10px 0px;
+    border-top: 1px solid rgb(240, 240, 240);
+    background: rgb(255, 255, 255);
+    padding: 16px 22px;
+    text-align: right;
+}
+
+._2GJ0F{
+    position: sticky;
+    top: 64px;
+    bottom: 0px;
+    z-index: 2;
+    align-self: flex-start;
+}
+
+.font_f{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 95px;
+}
+
+.top_bor{
+    border-top: 1px dashed #e0e0e0;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.bil_div{
+    /* position: fixed; */
+    /* top: 95px; */
+    /* z-index: 1020; */
+    width: 300px;
+}
+
+/* .search_input {
+    color: black;
+    height: 35px;
+    margin: 7px;
+    min-width: 270px;
+    padding-right: 0px;
+    margin-right: 0px;
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0;
+    outline: 0 none;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.23);
+} */
+
+/* .search_input{
+    padding-right: 0px;
+    margin-right: 0px;
+    border: 0;
+  } */
+
+  /* ============================================= EMPTY CARD CSS ====================================== */
+
+._12iFZG {
+    margin: 0 auto;
+    min-width: 978px;
+    max-width: 1240px;
+    padding: 8px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 2px 0px;
+}
+
+._3PG6Wd {
+    width: 100%;
+    position: relative;
+}
+
+._20my3 {
+    text-align: center;
+    padding: 50px 0 50px;
+    background: #fff;
+}
